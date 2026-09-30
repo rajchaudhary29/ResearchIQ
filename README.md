@@ -1,6 +1,6 @@
 # ResearchIQ
 
-App Link : https://researchiq-ghrjmtaxgnzwzf8fmq4dep.streamlit.app/
+App Link : https://researchiq-p5adittcqgn99zpoehuibi.streamlit.app/
 
 An AI-powered app for reading research papers faster. Upload a PDF and get an automatic summary, a breakdown of the paper's key contributions, and a chat interface to ask questions directly about the content.
 
